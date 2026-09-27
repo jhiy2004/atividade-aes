@@ -78,3 +78,8 @@ python main.py
 | **AES-128** | 128 bits (16 bytes) | 128 bits (16 bytes) | 10 | 44 *words* |
 | **AES-192** | 192 bits (24 bytes) | 128 bits (16 bytes) | 12 | 52 *words* |
 | **AES-256** | 256 bits (32 bytes) | 128 bits (16 bytes) | 14 | 60 *words* |
+
+---
+
+## Links úteis
+- https://medium.com/@imgouravsaini/aes-algorithm-and-its-hardware-implementation-on-fpga-a-step-by-step-guide-2bef178db736
