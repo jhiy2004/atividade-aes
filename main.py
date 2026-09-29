@@ -48,7 +48,7 @@ def run_aes(option):
         return
 
     msg = input("Digite a mensagem a ser cifrada: ")
-    key = input("Digite a mensagem a ser cifrada: ")
+    key = input("Digite a chave a ser cifrada: ")
 
     if option == 1:
         chosen_aes = "AES-128"
